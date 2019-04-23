@@ -1,6 +1,6 @@
 1) Construiria 4 modulos python, ellos serian: 
 
-La intefaz: Pide al usuario el numero y devuelve el numero en hexadecimal, tambien controla que le numero este en el rango permitido [0,4095] y que efectivamente sea un numero entero
+La intefaz: Pide al usuario el numero y devuelve el numero en hexadecimal, tambien controla que el numero este en el rango permitido [0,4095] y que efectivamente sea un numero entero
 
 Un modulo que contiene la funcion que se encarga de la transformacion del numero decimal a hexadecimal
 
