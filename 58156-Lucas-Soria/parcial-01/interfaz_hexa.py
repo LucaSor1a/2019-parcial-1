@@ -8,7 +8,7 @@ class Not_a_number_exception(Exception):
 
 
 
-
+#Sacar # del comentario para usarlo fuera de los test
 #inp = input("Ingrese un numero entre 0 y 4095: ")
 
 
@@ -39,8 +39,6 @@ def interfaz_hexa(inp):
 
 
 
-
+#Sacar # del comentario para usarlo fuera de los test
 #fin = interfaz_hexa(inp)
-
-
 #print("El numero {} en hexadecimal es: {}".format(inp,fin))

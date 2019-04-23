@@ -34,7 +34,4 @@ def hexa(nume):
 
     #Ordena el numero hexadecimal
     final = final[::-1]
-
-
-
     return final
